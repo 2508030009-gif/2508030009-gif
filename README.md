@@ -1,5 +1,76 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>- Open Source Contributions (Hacktoberfest & OSS projects)<br>- AI-powered Web Applications<br>- React.js & Three.js Projects<br>- Cloud & Generative AI with Oracle OCI<br><br>👯 I’m looking to collaborate on<br>- Open Source Projects<br>- Full-Stack Web Development<br>- AI/ML Applications<br>- Developer Tools & Community Projects<br><br>🤝 I’m looking for help with<br>- Advanced React & Next.js<br>- Backend Development (Node.js, Express)<br>- System Design<br>- Open Source Best Practices<br><br>🌱 I’m currently learning<br>- React.js & Next.js<br>- Three.js<br>- Docker & Kubernetes<br>- Generative AI & LLM Applications<br>- Cloud Computing (Oracle OCI)<br><br>💬 Ask me about<br>- C/C++<br>- HTML, CSS & JavaScript<br>- React <br>-Python, Java<br>- SQL & MySQL<br>- Oracle Generative AI<br>- Open Source<br><br>⚡ Fun fact<br>- I enjoy turning ideas into projects and learning new technologies through hackathons and open-source contributions.
+<h1 align="center">
+  Hi 👋, I'm Anmol Dikshit
+</h1>
+
+<h3 align="center">
+Integrated CSE Student • Open Source Enthusiast • AI Developer • Cloud Learner
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Open+Source+Contributor;React+Developer;AI+Enthusiast;Oracle+Generative+AI+Certified;Always+Learning+New+Things+🚀" />
+</p>
+
+<p align="center">
+<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+</p>
+
+---
+
+# 🚀 About Me
+
+<details open>
+<summary>🔭 <b>Currently Working On</b></summary>
+
+- 🌍 Open Source Contributions
+- ⚛️ React.js Projects
+- 🎮 Three.js
+- 🤖 AI-powered Applications
+- ☁️ Oracle Cloud Infrastructure
+
+</details>
+
+<details>
+<summary>🌱 <b>Currently Learning</b></summary>
+
+- Next.js
+- Docker
+- Kubernetes
+- LLM Applications
+- Backend Development
+
+</details>
+
+<details>
+<summary>👯 <b>Looking to Collaborate</b></summary>
+
+- Open Source
+- Full Stack Development
+- AI/ML Projects
+- Hackathons
+
+</details>
+
+<details>
+<summary>💬 <b>Ask Me About</b></summary>
+
+- C/C++
+- Python
+- Java
+- React
+- HTML CSS JS
+- SQL
+- Oracle AI
+
+</details>
+
+<details>
+<summary>⚡ <b>Fun Fact</b></summary>
+
+🚀 I love building projects, participating in hackathons, and contributing to Open Source.
+
+</details>
+
+---
 
 
 ## 🌐 Socials:
