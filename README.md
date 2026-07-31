@@ -46,7 +46,7 @@ Integrated CSE Student • Open Source Enthusiast • AI Developer • Cloud Lea
 - Open Source
 - Full Stack Development
 - AI/ML Projects
-- Hackathons
+- Hackathons😊
 
 </details>
 
