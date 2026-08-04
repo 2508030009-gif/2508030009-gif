@@ -59,7 +59,7 @@ Integrated CSE Student • Open Source Enthusiast • AI Developer • Cloud Lea
 - React
 - HTML CSS JS
 - SQL
-- Oracle AI
+- Oracle AI😊
 
 </details>
 
